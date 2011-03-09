@@ -7,6 +7,9 @@ a.button:active { top: 1px }
 a.button.negative:hover { color: #FFFFFF; background-position: 0 -121px; background-color: #D84743; border-color: #911D1B; }
 a.button.negative:active,
 a.button.negative.active { background-position: 0 -161px; background-color: #A5211E; border-color: #911D1B; }
+a.button.afirmative:hover { color: #FFFFFF; background-position: 0 -280px; background-color: green; border-color: #41904a; }
+a.button.afirmative:active,
+a.button.afirmative.active { background-position: 0 -320px; background-color: #41904a; border-color: #41904a; }
 a.button.pill { -webkit-border-radius: 19px; -moz-border-radius: 19px; border-radius: 19px; padding: 6px 12px; }
 a.button.left { -webkit-border-bottom-right-radius: 0px; -webkit-border-top-right-radius: 0px; -moz-border-radius-bottomright: 0px; -moz-border-radius-topright: 0px; border-bottom-right-radius: 0px; border-top-right-radius: 0px; margin-right: 0px; }
 a.button.middle { margin-right: 0px; margin-left: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; border-left: none; }
